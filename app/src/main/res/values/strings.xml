@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginFacebook</string>
+    <string name="login_to_fb">Log into Facebook</string>
+    <string name="emailId">Digite seu e-mail</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="login">Log in</string>
+    <string name="line">__</string>
+    <string name="or">or</string>
+    <string name="create_count">Create New Account</string>
+    <string name="forgot_account">Forgot account?</string>
+    <string name="not_now">Not Now</string>
+</resources>
